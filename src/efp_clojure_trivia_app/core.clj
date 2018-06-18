@@ -1,7 +1,10 @@
 (ns efp-clojure-trivia-app.core
+  (:require [clojure.pprint :as pprint])
   (:gen-class))
 
+(defn divide [numer denom]
+  (/ numer denom))
+
 (defn -main
-  "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!"))
+  (println "Derp"))
