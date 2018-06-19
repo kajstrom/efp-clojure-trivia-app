@@ -2,10 +2,6 @@
 
 Exercise 57 from Exercises for Programmers book in Clojure.
 
-## Installation
-
-Download from http://example.com/FIXME.
-
 ## Usage
 
     $ lein uberjar
