@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What animal quacks?",
+    "correct": 1,
+    "answers": [
+      {
+        "number": 1,
+        "description": "Duck"
+      },
+      {
+        "number": 2,
+        "description": "Horse"
+      },
+      {
+        "number": 3,
+        "description": "Moose"
+      }
+    ]
+  }
+]
