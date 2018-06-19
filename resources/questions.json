@@ -16,5 +16,59 @@
         "description": "Moose"
       }
     ]
+  },
+  {
+    "question": "What color is a Panda",
+    "correct": 3,
+    "answers": [
+      {
+        "number": 1,
+        "description": "White"
+      },
+      {
+        "number": 2,
+        "description": "Black"
+      },
+      {
+        "number": 3,
+        "description": "Black and white"
+      }
+    ]
+  },
+  {
+    "question": "What color is a Pumpkin",
+    "correct": 2,
+    "answers": [
+      {
+        "number": 1,
+        "description": "Green"
+      },
+      {
+        "number": 2,
+        "description": "Orange"
+      },
+      {
+        "number": 3,
+        "description": "Purple"
+      }
+    ]
+  },
+  {
+    "question": "Which is the largest",
+    "correct": 3,
+    "answers": [
+      {
+        "number": 1,
+        "description": "Ant"
+      },
+      {
+        "number": 2,
+        "description": "Bear"
+      },
+      {
+        "number": 3,
+        "description": "Mars"
+      }
+    ]
   }
 ]
